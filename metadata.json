@@ -1,0 +1,7 @@
+{
+  "name": "Continuidad y Discontinuidades en Cálculo Diferencial",
+  "description": "Aplicación interactiva y educativa para el aprendizaje de criterios de continuidad, análisis gráfico de límites laterales y estudio analítico de funciones a trozos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
